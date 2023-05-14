@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Cartao{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto; /* Define margem superior e inferior como 0 e margem esquerda e direita como automático */
+    text-align: center; /* Alinha o conteúdo dentro da div ao centro */
+}
+
+img {
+    border-style: outset;
+    border-color: blue;
+    margin: 0 auto;
+    padding-top: 0;
+    text-align: center;
+    height: 200px;
+}
+
+h2 {
+    padding: 0 0 0 0;
+    border: 0 0 0 0;
+}
